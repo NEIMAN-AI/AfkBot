@@ -48,7 +48,7 @@ ________________
 
 --> pip install -r requirements.txt
 
---> bash fuckffxd.sh
+--> bash fuckuffxd.sh
 __________________
 
 » For more hosting platforms, Join our [channel](t.me/splbots) and support [group](t.me/coding_bots
